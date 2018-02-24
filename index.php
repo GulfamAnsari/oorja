@@ -15,6 +15,7 @@
 		</script>
 <!-- //start-smoth-scrolling -->
 <body>
+	<?php include ($_SERVER['DOCUMENT_ROOT'].'/navbar.php');?>
 	oorja
 </body>
 </html>
